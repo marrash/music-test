@@ -19,6 +19,7 @@ Download
         Windows builds from gyan.dev
             點擊下載壓縮檔案
 
+![image](https://user-images.githubusercontent.com/47851007/171563572-1e3c678b-20b8-4803-8f79-aa46261f4c8e.png)
 
 
 
@@ -29,12 +30,14 @@ Download
 
 4. 添加path進環境變數
 
+![image](https://user-images.githubusercontent.com/47851007/171563523-516f9b8d-dd1a-4a97-82a3-a6622eeebe0b.png)
 
 
 5. terminal測試是否安裝成功
 ffmpeg -version
 
 正確可跳出
+![image](https://user-images.githubusercontent.com/47851007/171563614-e8a7d040-2935-4f6f-8082-8bee983263a2.png)
 
 
 不正確的話則跳出紅字指令錯誤
@@ -58,6 +61,7 @@ compare() 參數塞入上述處理好的資料夾位址
 
 第二個參數為"需要比較_音樂folder"
 
+![image](https://user-images.githubusercontent.com/47851007/171563460-12afb212-8ac4-4679-ae0a-377056d41727.png)
 
 
 10. windows會於desktop創建"Music_compare"資料夾，裡面包含重新轉檔的.mp3 & .wav(每跑一次程式會重建該資料夾)
