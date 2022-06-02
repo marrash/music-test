@@ -61,8 +61,6 @@ compare() 參數塞入上述處理好的資料夾位址
 
 第二個參數為"需要比較_音樂folder"
 
-![image](https://user-images.githubusercontent.com/47851007/171563460-12afb212-8ac4-4679-ae0a-377056d41727.png)
-
 
 10. windows會於desktop創建"Music_compare"資料夾，裡面包含重新轉檔的.mp3 & .wav(每跑一次程式會重建該資料夾)
 
